@@ -16,5 +16,7 @@ The game allows users to play Sudoku directly in the terminal with basic validat
 
 ## 🛠️ Technologies Used
 - Programming Language: **C**
-- Compiler: GCC / Turbo C (or any standard C compiler)
+- Compiler: Strictly Turbo C
 - Platform: Windows / Linux terminal
+
+Author : Gaurav Bhirwandekar 
